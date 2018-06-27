@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My AlertDialog 1</string>
+    <string name="app_Text">Abc</string>
+    <string name="app_Text2">123</string>
 </resources>
